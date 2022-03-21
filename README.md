@@ -3,7 +3,7 @@ This repository contains helm charts for [Chatwoot](https://github.com/chatwoot/
 
 ## Installation
 ```bash
-helm repo add chatwoot https://github.com/Austinstevesk/charts
+helm repo add chatwoot https://austinstevesk.github.io/charts/
 helm install chatwoot Austinstevesk/chatwoot
 ```
 
